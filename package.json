@@ -1,5 +1,5 @@
 {
-  "name": "currency-convertor",
+  "name": "cc12_currencyconvertor",
   "version": "1.0.0",
   "description": "cli based currency covertor",
   "main": "main.js",
